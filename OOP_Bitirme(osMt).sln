@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Bitirme(osMt)", "OOP_Bitirme(osMt)\OOP_Bitirme(osMt).csproj", "{DA8E7571-6BFD-45A1-9DD7-CD3478E60EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneKutuphane", "HastaneKutuphane\HastaneKutuphane.csproj", "{568202A9-4E38-44C2-A406-CAA2E3C4CB80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8E7571-6BFD-45A1-9DD7-CD3478E60EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8E7571-6BFD-45A1-9DD7-CD3478E60EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8E7571-6BFD-45A1-9DD7-CD3478E60EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8E7571-6BFD-45A1-9DD7-CD3478E60EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568202A9-4E38-44C2-A406-CAA2E3C4CB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568202A9-4E38-44C2-A406-CAA2E3C4CB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568202A9-4E38-44C2-A406-CAA2E3C4CB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568202A9-4E38-44C2-A406-CAA2E3C4CB80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://oopbitirme.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OOP_Bitirme(osMt)\\OOP_Bitirme(osMt).csproj
+		SccProjectName1 = OOP_Bitirme(osMt)
+		SccLocalPath1 = OOP_Bitirme(osMt)
+		SccProjectUniqueName2 = HastaneKutuphane\\HastaneKutuphane.csproj
+		SccProjectName2 = HastaneKutuphane
+		SccLocalPath2 = HastaneKutuphane
+	EndGlobalSection
+EndGlobal
